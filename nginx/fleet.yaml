@@ -1,7 +1,0 @@
-defaultNamespace: nginx-lab
-
-targets:
-  - name: only-staging
-    clusterSelector:
-      matchLabels:
-        env: staging
