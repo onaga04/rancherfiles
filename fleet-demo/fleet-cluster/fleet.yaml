@@ -1,0 +1,4 @@
+defaultNamespace: fleet-cluster
+targets:
+  - name: dev-cluster
+    clusterName: eo-cluster
